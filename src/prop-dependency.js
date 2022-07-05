@@ -9,7 +9,7 @@ const PropDependency = ({object}) => {
 
     return (
         <div>
-            <div>Prop as Dependency</div>
+            <div>Prop Object as Dependency</div>
             <br />
             <br />
             count: {count}
